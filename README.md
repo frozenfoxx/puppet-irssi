@@ -1,4 +1,4 @@
-# puppet-irssi
+# irssi
 
 #### Table of Contents
 
@@ -28,7 +28,7 @@ management, etc.) this is the time to mention it.
 
 ## Setup
 
-### What puppet-irssi affects
+### What irssi affects
 
 * A list of files, packages, services, or operations that the module will alter,
   impact, or execute on the system it's installed on.
@@ -40,7 +40,7 @@ management, etc.) this is the time to mention it.
 If your module requires anything extra before setting up (pluginsync enabled,
 etc.), mention it here.
 
-### Beginning with puppet-irssi
+### Beginning with irssi
 
 The very basic steps needed for a user to get the module up and running.
 
