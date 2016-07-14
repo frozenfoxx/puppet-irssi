@@ -1,7 +1,7 @@
 # Class: irssi
 # ===========================
 #
-# Full description of class irssi here.
+# irssi manages and deploys the irssi IRC chat client.
 #
 # Parameters
 # ----------
@@ -35,12 +35,12 @@
 # Authors
 # -------
 #
-# Author Name <author@domain.com>
+# Author Name <siliconfoxx@gmail.com>
 #
 # Copyright
 # ---------
 #
-# Copyright 2016 Your name here, unless otherwise noted.
+# Copyright 2016 frozenfoxx, unless otherwise noted.
 #
 class irssi {
 
