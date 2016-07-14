@@ -1,0 +1,14 @@
+{
+  "name": "puppet-irssi",
+  "version": "0.1.0",
+  "author": "frozenfoxx",
+  "summary": "This module deploys IRSSI and manages user configurations.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/frozenfoxx/puppet-irssi",
+  "project_page": "https://github.com/frozenfoxx/puppet-irssi",
+  "issues_url": "https://github.com/frozenfoxx/puppet-irssi/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
